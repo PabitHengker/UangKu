@@ -1,6 +1,7 @@
 # UangKu
 
-# 💰 UangKu - Personal Finance & Expense Tracker  **UangKu** adalah aplikasi manajemen keuangan pribadi modern berbasis Android yang dibangun menggunakan **Jetpack Compose** dan **Material 3**. Aplikasi ini dirancang untuk membantu pengguna melacak transaksi harian, mengelola multi-rekening (Bank & E-Wallet), serta menganalisis pola pengeluaran melalui visualisasi data yang interaktif.  
+# 💰 UangKu - Personal Finance & Expense Tracker  
+**UangKu** adalah aplikasi manajemen keuangan pribadi modern berbasis Android yang dibangun menggunakan **Jetpack Compose** dan **Material 3**. Aplikasi ini dirancang untuk membantu pengguna melacak transaksi harian, mengelola multi-rekening (Bank & E-Wallet), serta menganalisis pola pengeluaran melalui visualisasi data yang interaktif.  
 ---  
 ## ✨ Fitur Utama (Key Features)  
 - 📊 **Dashboard & Financial Summary**
